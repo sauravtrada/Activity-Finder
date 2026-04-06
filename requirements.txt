@@ -1,0 +1,15 @@
+torch
+torchvision
+faiss-cpu
+numpy
+opencv-python
+transformers
+open_clip_torch
+fastapi
+uvicorn
+pyyaml
+tqdm
+h5py
+scipy
+python-dotenv
+python-multipart
